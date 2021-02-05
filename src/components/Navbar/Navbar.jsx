@@ -16,7 +16,7 @@ function NavBar(props) {
             props.currentPage === "Home" ? "nav-link active" : "nav-link"
           }
         >
-          <h3>Dennis Francis</h3>
+          <h3>Tara Martin</h3>
         </a>
 
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
@@ -56,7 +56,7 @@ function NavBar(props) {
             </a> */}
             <a
               className="nav-link"
-              href="https://docs.google.com/document/d/1MZ_OTMBpeteeMLyJbuGzgmT9NBKnAI1Qt-k5Pt69K1Y/edit?usp=sharing"
+              href="https://docs.google.com/document/d/1IRk9BetcWHOJEcFTeQAyk22z7GfoATFAsCSQqVZkQ8U/edit?usp=sharing"
               download
             >
               Resume
