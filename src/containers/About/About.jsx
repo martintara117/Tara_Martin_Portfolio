@@ -29,9 +29,8 @@ const About = () => {
         <article className="row">
           <section className="" class="col">
             <p>
-              These are links to my GitHub, Linked In, and Email. Click them if
-              you want to learn more about me or just send me an email. Feel
-              free to leave your information on the contact page.
+              Please browse the following links to find out more about me! Or
+              just shoot me an email if you have any questions!
             </p>
             <ul>
               <li>
