@@ -30,7 +30,7 @@ const About = () => {
           <section className="" class="col">
             <p>
               Please browse the following links to find out more about me! Or
-              just shoot me an email if you have any questions!
+              just shoot me an email/give me a call if you have any questions!
             </p>
             <ul>
               <li>
