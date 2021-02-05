@@ -1,12 +1,8 @@
-// import logo from './logo.svg';
-import Nav from './components/Nav'
+import React from "react";
+import Portfolio from "./components/Portfolio/Portfolio";
 
 function App() {
-  return (
-    <>
-      <Nav />
-    </>
-  );
+  return <Portfolio />;
 }
 
 export default App;
