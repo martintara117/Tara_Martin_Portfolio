@@ -1,11 +1,12 @@
 .homeCont {
-  color: rgb(255, 127, 77);
+  color: rgb(89, 119, 173);
   width: 80%;
   border-radius: 10px;
-  font-size: 60px;
+  font-size: 80px;
   text-align: center;
   padding: 25px;
   margin-top: 75px;
   margin-bottom: 75px;
   height: 500px;
+  font-family: "Inknut Antiqua", serif;
 }
