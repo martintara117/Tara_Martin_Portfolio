@@ -6,7 +6,7 @@ import Wa from "../../assets/tinyweather-api.gif";
 import Workout from "../../assets/workout.gif";
 import Tungsten from "../../assets/tungsten.png";
 import Directory from "../../assets/employee-directory.gif";
-import Burger from "../../assets/burger.gif";
+import Burger from "../../assets/burger2.gif";
 
 const Portfolio = () => {
   return (
