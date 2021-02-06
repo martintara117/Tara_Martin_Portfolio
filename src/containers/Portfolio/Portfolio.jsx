@@ -3,10 +3,10 @@ import Card from "../../components/Card/Card";
 import "../../styles/style.css";
 import Insp from "../../assets/tinyinspirator.gif";
 import Wa from "../../assets/tinyweather-api.gif";
-import Workout from "../../assets/workout.gif";
+import Workout from "../../assets/workout.png";
 import Tungsten from "../../assets/tungsten.png";
-import Directory from "../../assets/employee-directory.gif";
-import Burger from "../../assets/burger2.gif";
+import Directory from "../../assets/employee.png";
+import Burger from "../../assets/burger.png";
 
 const Portfolio = () => {
   return (
